@@ -1,0 +1,74 @@
+.titulo {
+	margin-top: 7%;
+	/*50px*/
+}
+
+.logo {
+	width: 20%;
+	margin-bottom: 3%;
+
+}
+.logo img{
+	width: 100%;
+	margin-top: 5%;
+}
+
+
+
+
+.texto img {
+	min-width:90%;
+	
+	padding-bottom: 4%;
+
+}
+
+span {
+	color: cadetblue;
+	font-size: 2rem;
+	padding-left: 2%;
+}
+
+.texto3 {
+	height: 80%;
+	background-color: #000;
+	opacity: 0.;
+	width: 200%;
+	/*300px*/
+	float: left;
+	margin-top: 3%;
+	/*60px*/
+	margin-left: %;
+	padding-bottom: 3%;
+	padding-top: 2%;
+
+
+
+}
+
+.circulo {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 3%;
+	/* 40px*/
+	margin-left: 6%;
+	/*80px*/
+}
+
+.circulo img {
+	display: flex;
+	flex-wrap: wrap;
+	width:%;
+	margin-right: 8%;
+	/*40px*/
+	border-radius: 520%;
+	margin-left: 10%;
+}
+.circulo h2{
+	width: 30%;
+	height: 20%;
+	margin-right: 100%;
+}
+
+

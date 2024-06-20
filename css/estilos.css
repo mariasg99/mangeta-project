@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #dcdcdc;
+	background-image: url(../img/fondo16.jpg);
+	color: #fff;
+
+}
+
+
+.logo,
+.titulo {
+	display: inline-block;
+}
+
+.titulo {
+	margin-left: 4%;
+	/*550px*/
+	font-family: "Indie Flower", "cursive";
+	font-size: 2rem;
+	/*30px*/
+	float: right;
+	margin-right: 12%;
+	/*150px*/
+	margin-top: 4%;
+	/*50px*/
+}
+
+.logo {
+	margin-left: 7%;
+	/*145px*/
+	margin-top: 0.8%;
+	/*10px*/
+}
+
+.slider {
+	width: 7%;
+	/*95px*/
+	margin-left: 20%;
+	/*250px*/
+	margin-top: 5%;
+	/*70px*/
+}
+
+.slider ul {
+	display: flex;
+	padding: 0;
+	width: 2000em;
+}
+
+.slider li {
+	list-style: none;
+}
+
+main {
+	width: 100%;
+	background: url("../img/persona9.jpg");
+
+	background-repeat: no-repeat;
+	margin-top: 4%;
+
+
+
+}
+
+.flex-container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.caja {
+	flex-flow: row;
+	height: 400px;
+	margin-left: 2%;
+	/*30px*/
+	width: 100%;
+	/*200px*/
+	text-align: center;
+	padding: 2%;
+	/*30px*/
+	background-color: rgba(0, 102, 102, 0.7);
+	padding-top: %;
+	/*100px*/
+	padding-bottom: 5%;
+	/*100px*/
+}
+
+a {
+
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	font-size: 2rem;
+	font-family: "Indie Flower", "cursive";
+
+}
+
+.persona {
+	padding: 10px;
+}
+
+.linea {
+	height: 1px;
+	background-color: #dcdcdc;
+	width: 100%;
+	margin-bottom: 10%;
+	margin-top: 10%;
+}
+
+.icono a {
+	display: inline-block;
+	margin-top: 14%;
+	/*70px*/
+	font-size: 1.5rem
+}
+
+.texto {
+	height: 100%;
+	background-color: #000;
+	opacity: 0.;
+	width: 24%;
+	/*300px*/
+	float: left;
+	margin-top: 3%;
+	/*60px*/
+	margin-left: 10%;
+	padding-bottom: 3%;
+	padding-top: 2%;
+
+
+}
+
+.texto2 {
+	height: 100%;
+	background-color: #000;
+	opacity: 0.;
+	width: 24%;
+	/*300px*/
+	float: left;
+	margin-top: 3%;
+	/*60px*/
+	margin-left: 10%;
+	padding-bottom: 3%;
+	padding-top: 2%;
+
+
+
+}
+
+.img {
+	padding: 0%;
+	width: 100%;
+	padding-bottom: 4%;
+
+}
+
+p {
+	color: #fff;
+	line-height: 1.5;
+	font-family: sans-serif;
+	font-size: 16rem;
+	padding: 20%;
+	/*30px*/
+	margin-top: 10%;
+	text-align: center;
+	padding-bottom: 20%;
+}
+
+span {
+	color: cadetblue;
+	font-size: 2rem;
+	padding-left: 2%;
+}
+
+.texto3 {
+	height: 80%;
+	background-color: #003d4d;
+	opacity: 0.;
+	width: 200%;
+	/*300px*/
+	float: left;
+	margin-top: 3%;
+	/*60px*/
+	margin-left: %;
+	padding-bottom: 3%;
+	padding-top: 2%;
+
+
+
+}
+
+.circulo {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 3%;
+	/* 40px*/
+	margin-left: 6%;
+	/*80px*/
+}
+
+.circulo img {
+	width: %;
+	margin-left: 20%;
+	/*40px*/
+	border-radius: 50%;
+}
+
+.parrafo {
+	color: #fff;
+	padding: 10%;
+}
+
+.circulo2 {
+	margin: 3%;
+	/* 40px*/
+	margin-left: 40px;
+
+}
+
+.linea2 {
+	height: 3px;
+	background-color: #666;
+	width: 100%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+
+.circulo2 h2 {
+	text-align: center;
+	font-size: 2rem;
+	padding: 2%;
+	font-family: "Indie Flower", "cursive";
+	font-weight: 800px;
+
+}
+
+.circulo h2 {
+	text-align: center;
+	font-size: 2rem;
+	padding: 2%;
+	font-family: "Indie Flower", "cursive";
+	font-weight: 800px;
+
+}
+
+.parrafo3 {
+	color: #fff;
+	padding: 1%;
+	line-height: 1.4;
+	font-family: cursive;
+}
+
+footer {
+	width: 100%;
+	background-color: #003d4d;
+	display: inline-block;
+
+
+
+}
+
+.foot1 a {
+	padding: 1%;
+	font-size: 1rem;
+	padding-left: 45%;
+}
+
+
+.foot2 {
+	padding-left: 48%;
+	padding-bottom: 1%;
+}

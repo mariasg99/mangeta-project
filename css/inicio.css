@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+	width: 100%;
+	
+	margin: 0 auto;
+	background-image: url(../img/.jpg);
+	font-family: "indie", "flower";
+
+
+}
+.encabezado {
+	padding: 1rem;
+	background-color:  #003d4d;
+}
+
+.encabezado a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.encabezado p {
+	color: #fff;
+	text-decoration: none;
+}
+.logo {
+	width: 125px;
+	height: 100px;
+	margin-top: 0.8%;
+	/*10px*/
+	float: left;
+
+}
+.letra {
+	font-size: 60px;
+	padding: 10px;
+	font-family: "indie", "flower";
+}
+
+.letra2 {
+	font-size: 30px;
+	margin-left: 1rem;
+	padding: 10px;
+	font-family: "indie", "flower";
+}
+footer {
+	margin-top: 2rem;
+	width: 100%;
+	background-color: #003d4d;
+	display: inline-block;
+
+
+
+}
+foot1{
+	padding: 2rem;
+}
+
+.foot1 a {
+	padding: 1rem;
+	font-size: 1rem;
+	padding-left: 45%;
+	text-decoration: none;
+	color: #fff;
+	padding-top: 1rem;
+}
+
+.foot2 {
+	padding-left: 48%;
+	padding-bottom: 1%;
+}
